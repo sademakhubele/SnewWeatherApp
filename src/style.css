@@ -10,16 +10,16 @@ header {
 }
 
 .app {
-    background: #edddda;
+    background: #fda26d;
     max-width: 650px;
     margin: 45px auto;
-    box-shadow: 0 30px 50px #dbd1d0;
+    box-shadow: 0 30px 50px #fdc46e;
     border-radius: 16px;
     padding: 32px;
 }
 
 .search-bar-input {
-    background-color: #d8b3ad;
+    background-color: #fae588;
     border: none;
     border-radius: 5px;
     width: 65%;
@@ -54,11 +54,11 @@ header {
 }
 
 .search-bar-button {
-    background: #ba8a82;
+    background: #eb9a58;
     padding: 15px 20px;
     border-radius: 5px;
     border: none;
-    color: whitesmoke;
+    color: black;
     font-size: 15px;
 }
 
